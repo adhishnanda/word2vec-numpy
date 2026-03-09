@@ -168,7 +168,7 @@ During training, the average loss decreases significantly, which indicates that 
 
 Example nearest-neighbor outputs include corpus-specific associations such as:
 
-- `king` → `richard`, `crown, `iv`, `vi`
+- `king` → `richard`, `crown`, `iv`, `vi`
 - `queen` → `margaret`, `elizabeth`
 - `lord` → `buckingham`, `hastings`
 
