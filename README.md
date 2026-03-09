@@ -117,6 +117,8 @@ word2vec-numpy/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+---
 
 ## Hyperparameters
 
