@@ -141,10 +141,12 @@ To keep training manageable in pure NumPy, only the first **120000 tokens** of t
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 2. Run training
 ```bash
 python src/train.py
+```
 
 ---
 
